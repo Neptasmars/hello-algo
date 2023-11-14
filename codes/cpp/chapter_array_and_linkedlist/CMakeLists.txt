@@ -1,4 +1,1 @@
-add_executable(array array.cpp)
-add_executable(linked_list linked_list.cpp)
-add_executable(list my_list.cpp)
-add_executable(my_list my_list.cpp)
+praint shhdyudb hcbw sa ksa 2uhdhwu 2ubd 2 3gsuw 2 2g2 2g 2
